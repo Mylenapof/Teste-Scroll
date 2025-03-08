@@ -16,5 +16,5 @@
 - **JavaScript** - Interatividade e rolagem suave
 
 ## 📂 Como Usar
-Escolha a página desejada no link abaixo e veja a mágica acontecer
-  mylenapof.github.io/Teste-Scroll/
+Escolha a página desejada no link abaixo e veja a mágica acontecer <br>
+ https://mylenapof.github.io/Teste-Scroll/
