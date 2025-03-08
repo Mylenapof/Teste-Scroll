@@ -17,4 +17,4 @@
 
 ## 📂 Como Usar
 Escolha a página desejada no link abaixo e veja a mágica acontecer
-   git clone https://github.com/seu-usuario/projeto-rolagem.git
+  mylenapof.github.io/Teste-Scroll/
